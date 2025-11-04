@@ -68,3 +68,6 @@ Based on the results, here are the actionable marketing strategies:
 | **Loyal Customers** | **Engage and Enhance** | Offer product bundling and discounts on next purchases (upsell). |
 | **At-Risk Customers** | **Re-Activate** | Send a "We Miss You!" campaign with a special discount or free shipping offer to entice them back. |
 | **"Lost" Customers** | **Minimum Effort** | Send one final "win-back" campaign. If there's no response, remove them from the active email list to save costs. |
+
+## Dashboard
+The Dashboard of this project can be accessed through https://lookerstudio.google.com/reporting/f902648e-6d41-4bcd-b39b-ccbaadb8dbeb
